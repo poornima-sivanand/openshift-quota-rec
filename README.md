@@ -1,6 +1,7 @@
 # Openshift Quota Research and Development
 
-  The following exercise is for assessing current OpenShift resource limits and quota and 
+The following exercise is for assessing Province of BC's OpenShift quota, resource, limits and usage, and making various data models and recommendations for improving resource allocation and capacity planning.
+  
 ## Problem Statements
 
 1. We have to charge them based on requests in a year's time and we don't know if the quota sizes are accurate and saving them money 
