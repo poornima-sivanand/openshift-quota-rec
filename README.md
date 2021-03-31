@@ -1,6 +1,9 @@
-# Problem Statements
+# Openshift Quota Research and Development
 
-1.  We have to charge them based on requests in a year's time and we don't know if the quota sizes are accurate and saving them money 
+  The following exercise is for assessing current OpenShift resource limits and quota and 
+## Problem Statements
+
+1. We have to charge them based on requests in a year's time and we don't know if the quota sizes are accurate and saving them money 
 
 2. Users don't understand the significance of quota, usage, requests and limits. 
 
@@ -8,7 +11,7 @@
 
 4. Users are currently requesting very little CPU and using the limits to run their application which could mean they wouldn't be charged for what they use and will be burning out resources in the cluster which is a way of misusing our investment.
 
-# Questions for Problem Statements
+## Questions for Problem Statements
 
 1. What are the correct T shirt sizes required to optimally use resources and save costs?
 2. How can we configure our usage, requests, limit and quota in the most efficient manner?
